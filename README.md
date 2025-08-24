@@ -179,6 +179,8 @@ Deployment: Flask
 
 Version Control: Git
 
+Tableau public Link: https://public.tableau.com/app/profile/yokesh.dharan5985/viz/forecastedsalesdashboard/Dashboard1?publish=yes
+
 
 
 
